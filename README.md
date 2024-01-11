@@ -1,4 +1,4 @@
-[![Header](https://github.com/akkirva/akkirva/blob/main/Assets/logo.png)]
+![Header](https://github.com/akkirva/akkirva/blob/main/Assets/logo.png)
 
 ## I'm a beginner Frontend Developer.
 
