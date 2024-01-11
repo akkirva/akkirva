@@ -1,6 +1,6 @@
 [![Header](https://github.com/akkirva/akkirva/blob/main/Assets/logo.png)]
 
-About me
+## I'm a beginner Frontend Developer.
 
 Languages and Tools
 
