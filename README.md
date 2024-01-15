@@ -7,8 +7,3 @@
 ![CSS](https://img.shields.io/badge/-CSS-ddd?logo=CSS3)
 ![JavaScript](https://img.shields.io/badge/-JAVASCRIPT-ddd?logo=javascript)
 ![GIT](https://img.shields.io/badge/-GIT-ddd?logo=GIT)
-
-
-## Sotial links:
-
-
